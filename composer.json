@@ -1,0 +1,22 @@
+{
+  "name": "hevelop/FacebookOgMeta",
+  "license": [
+    "AGPL-3.0"
+  ],
+  "type": "magento-module",
+  "description": "Facebook Open Graph meta data",
+  "require": {
+    "php": "~5.4.0|~5.5.0|~5.6.0|~7.0.0",
+    "magento-hackathon/magento-composer-installer": "*"
+  },
+  "authors":[
+    {
+      "name":"Stefano Marcato",
+      "email":"stefano@hevelop.com"
+    },
+    {
+      "name":"Alex Bordin",
+      "email":"alex@hevelop.com"
+    }
+  ]
+}

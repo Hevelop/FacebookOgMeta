@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Hevelop_FacebookOgMeta>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends></depends>
+        </Hevelop_FacebookOgMeta>
+    </modules>
+</config>

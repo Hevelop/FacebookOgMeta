@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Hevelop_FacebookOgMeta>
+            <version>1.0</version>
+        </Hevelop_FacebookOgMeta>
+    </modules>
+    <global>
+        <blocks>
+            <hevelop_facebookogmeta>
+                <class>Hevelop_FacebookOgMeta_Block</class>
+            </hevelop_facebookogmeta>
+        </blocks>
+        <helpers>
+            <hevelop_facebookogmeta>
+                <class>Hevelop_FacebookOgMeta_Helper</class>
+            </hevelop_facebookogmeta>
+        </helpers>
+        <models>
+            <hevelop_facebookogmeta>
+                <class>Hevelop_FacebookOgMeta_Model</class>
+            </hevelop_facebookogmeta>
+        </models>
+    </global>
+    <frontend>
+        <layout>
+            <updates>
+                <hevelop_facebookogmeta>
+                    <file>hevelop/FacebookOgMeta.xml</file>
+                </hevelop_facebookogmeta>
+            </updates>
+        </layout>
+    </frontend>
+</config>

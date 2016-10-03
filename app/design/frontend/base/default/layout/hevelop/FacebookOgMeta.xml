@@ -1,0 +1,7 @@
+<layout version="0.1.0">
+    <default>
+        <reference name="head" before = "-">
+            <block type="hevelop_facebookogmeta/OgMeta" name="hevelop.facebook.og.meta" template="hevelop/facebookogmeta/page/html/meta.phtml"/>
+        </reference>
+    </default>
+</layout>

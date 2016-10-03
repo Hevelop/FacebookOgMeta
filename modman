@@ -1,0 +1,6 @@
+src/app/code/community/Hevelop/FacebookOgMeta/                                        app/code/community/Hevelop/FacebookOgMeta/
+
+src/app/design/frontend/base/default/layout/hevelop/FacebookOgMeta.xml                app/design/frontend/base/default/layout/hevelop/FacebookOgMeta.xml
+src/app/design/frontend/base/default/template/hevelop/facebookogmeta                  app/design/frontend/base/default/template/hevelop/facebookogmeta
+
+src/app/etc/modules/Hevelop_FacebookOgMeta.xml                                        app/etc/modules/Hevelop_FacebookOgMeta.xml
