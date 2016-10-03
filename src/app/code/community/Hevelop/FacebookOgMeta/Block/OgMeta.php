@@ -23,7 +23,7 @@ class Hevelop_FacebookOgMeta_Block_OgMeta extends
             $type = "product.group";
             $title = $this->getCurrentCat()->getName();
             $url = $this->helper('core/url')->getCurrentUrl();
-            $desc = strip_tags($this->getCurrentCat()->getShortDescription());
+            $desc = strip_tags($this->getCurrentCat()->getDescription());
             $image = $this->getSkinUrl(Mage::getStoreConfig('design/header/logo_src'));
         elseif ($this->getCms()->getId() && $this->getCms()->getIdentifier() == $this->getHomePageConfig()) :
             //Home page
