@@ -1,14 +1,14 @@
 #Hevelop FacebookOgMeta Extension
  =====================
 
- Magento 1 module for Facebook Conversion Tracking and Custom Audience [Facebook Developer Documentation](https://developers.facebook.com/docs/sharing/webmasters)
+ Magento 1 module for Facebook Open Graph meta data [Facebook Developer Documentation](https://developers.facebook.com/docs/sharing/webmasters)
 
  Facts
  -----
- - version: 1.5.0
+ - version: 1.0.0
  - extension key: Hevelop_FacebookOgMeta
  - [extension on GitHub](https://github.com/Hevelop/FacebookOgMeta)
- - [direct download link](https://github.com/Hevelop/FacebookOgMeta/archive/v1.0.0.zip)
+ - [direct download link]()
 
  Requirements
  ------------

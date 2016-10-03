@@ -27,7 +27,6 @@ class Hevelop_FacebookOgMeta_Block_OgMeta extends
             $image = $this->getSkinUrl(Mage::getStoreConfig('design/header/logo_src'));
         elseif ($this->getCms()->getId() && $this->getCms()->getIdentifier() == $this->getHomePageConfig()) :
             //Home page
-            $type = '<meta property="og:type" content="website" />';
             $type = "website";
             $title = $this->getCms()->getTitle();
             $url = $this->helper('core/url')->getCurrentUrl();
